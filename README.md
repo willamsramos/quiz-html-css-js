@@ -2,7 +2,7 @@
 
 ## Tecnoliga Utilizadas
 
-° HTML
-° CSS
-° JavaScript
-° GitHub
+- HTML
+- CSS
+- JavaScript
+- GitHub
